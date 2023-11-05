@@ -1,4 +1,4 @@
-from cmath import cos
+from math import cos
 
 #programa cos(x) değişkenini tanimlamak için math kütüphanesinden ekliyoruz
 
