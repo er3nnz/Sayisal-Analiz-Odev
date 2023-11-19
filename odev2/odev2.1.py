@@ -14,9 +14,9 @@ if x==3 and iterayon(x)>0:
             print("Yeni Iterasyon Araligimiz : [2.5,2.75]")
         else:
             print("Yeni Iterasyon Aralıgimiz : [2.75,3]")
-            if x==2.875 and iterayon(x)>0:
-                print("Yeni Iterasyon Araligimiz : [2.875,3]")
+            if x==2.625 and iterayon(x)>0:
+                print("Yeni Iterasyon Araligimiz : [2.5,2.625]")
             else :
-                print("Yeni Iterasyon Araligimiz : [2.75,2.875]")
+                print("Yeni Iterasyon Araligimiz : [2.625,2.75]")
 else:
     print("Yeni Iterasyon Araligimiz : [3,4]")
